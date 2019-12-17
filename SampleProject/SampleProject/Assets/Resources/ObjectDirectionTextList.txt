@@ -4,4 +4,4 @@ wormSpacer,+y,This spacer is used to position worm on its shaft.
 gearSpacer,-x,This spacer is used to position gear on its shaft.
 worm,+y,Insert worm into its shaft.
 yeet,+y,testo
-gear,-x,Insert gear into its shaft.
+gear,-x,Insert gear into its shaft. Done!

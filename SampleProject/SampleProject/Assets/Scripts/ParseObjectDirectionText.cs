@@ -10,13 +10,17 @@ public class ParseObjectDirectionText : MonoBehaviour
     List<string> text;
 
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
         Parse();
     }
 
     public List<string> getGONames()
     {
+        if (goName == null)
+        {
+            Debug.Log("null1");
+        }
         return goName;
     }
 

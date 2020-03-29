@@ -11,3 +11,7 @@ Open-source prefab for training parts assembly (similar to Microsoft Guides)
 - Play the scene
 
 There's a sample project if you want to see how it works
+
+## TODO:
+- Refactor and comment animateSteps.cs
+- Break project into Hololens and Android version
